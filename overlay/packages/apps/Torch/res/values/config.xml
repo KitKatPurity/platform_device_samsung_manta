@@ -19,5 +19,4 @@
 <resources>
     <!-- No sysfs for the flash, use the camera-->
     <bool name="useCameraInterface">true</bool>
-
 </resources>
